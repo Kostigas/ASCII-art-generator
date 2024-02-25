@@ -4,8 +4,8 @@ This project allows you to create ASCII art from an input image using JavaScript
 #How It Works
 
 - Image Loading:
- - The script begins by loading an image file (e.g., naruto128.png) using the loadImage() function from p5.js.
- - Make sure to place your image file in the project directory.
+  - The script begins by loading an image file (e.g., naruto128.png) using the loadImage() function from p5.js.
+  - Make sure to place your image file in the project directory.
 - Canvas Setup:
 - Pixel Processing:
 - Rendering ASCII Art:
